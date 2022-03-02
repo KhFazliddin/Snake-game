@@ -8,9 +8,7 @@
     box-sizing: border-box;
     margin-top: 20px;
     display: flex;
-    /* 用flex使其居中定位 */
     justify-content: space-around;
-    /* 垂直方向居中定位 */
     align-items: center;
 }
 

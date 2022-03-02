@@ -8,9 +8,7 @@
     border-radius: 10px;
     font: bold 20px "Courier";
     display: flex;
-    /* 定义在主轴上的对齐方式 */
     justify-content: space-around;
-    /* 定义在交叉轴上的对齐方式 */
     align-items: center;
     margin-top: 10px;
 }
